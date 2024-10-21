@@ -1,0 +1,9 @@
+<html>
+<head>
+<frameset rows ="50%,50%" border="5" frameborder="yes" framespacing = "15">
+<frame src= "https://www.amazon.com/">
+<frameset cols="25%,75%">
+<frame src= "https://www.darkweb.dk/">
+<frame src= "https://manavrachna.edu.in/">
+</frameset>
+</frameset>
