@@ -1,0 +1,29 @@
+<html>
+<body>
+<h1>Forms and fieldset</h1>
+<fieldset>
+<legend>basic f&f</legend>
+<form>
+<label>First Name</label>
+<input type="text" id="fname" name="fname"><br>
+<label>last name</label>
+<input type="text" id="lname" name="lname"><br>
+<label>Phone no:</label>
+<input type="number" value="phoneno"><br>
+Gender:<br>
+<input type="radio" name="male">Male</input>
+<input type="radio" name="female">Female</input><br>
+Subject preference:<br>
+<input type="checkbox" name="Math">Math</input><br>
+<input type="checkbox" name="Science">Science</input><br>
+<input type="checkbox" name="Commerce">Commerce</input><br>
+<select>
+<option value="volvo">Volvo</option>
+<option value="BMW">BMW</option>
+</select><br>
+<input type="file" name="uploadfile" accept"="image/*"><br>
+<input type="submit" value="submit"><br>
+</fieldset>
+</form>
+</body>
+</html>
